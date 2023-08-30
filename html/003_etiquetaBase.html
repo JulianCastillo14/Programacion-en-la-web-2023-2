@@ -1,0 +1,34 @@
+<!-- 
+    ETIQUETA <base>
+    Esta se utiliza en sitios web con multiples paginas y enlaces relativos, solo se puede 
+    implementar una vez y es en el dentro de la etiqueta <head>, tambien es util cuando se le
+    quiere aplicar un comportamiento similar a los enlaces de la pagina
+
+    ejemplo de uso:
+
+    - ejemplo.com/
+        - index.html
+        - about.html
+        - contact.html
+        - images/
+            - logo.png
+            - banner.jpg
+
+    Referencia: https://developer.mozilla.org/es/docs/Web/HTML/Element/base
+
+-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mi sitio web</title>
+    <base href="https://ejemplo.com/" >
+  </head>
+  <body>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="about.html">Acerca de</a>
+      <a href="contact.html">Contacto</a>
+    </nav>
+    <img src="img/Logo_UIS.png" alt="Logotipo" />
+  </body>
+</html>
