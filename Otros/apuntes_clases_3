@@ -1,0 +1,15 @@
+Cosas que se han revisado
+
+- Por portabilidad se prefiere utilizar rutas relativas.
+- Ruta absoluta y relativa
+- Centrar imagenes
+- Unidades absolutas
+- Box model 
+- CSS Box Sizing
+
+Tarea
+
+- Estilo base default para toda la pagina 
+- Tecnologia Flexbox, traer elemento centrado 
+
+
