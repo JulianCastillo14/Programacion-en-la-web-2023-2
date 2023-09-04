@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: #BFDB38;
+    text-align: center;
+    color: #F5F5F5;
+    height: 7vh;
+}
+nav{
+    background-color: #272829;
+    height: 6vh;
+    display: flex;
+    align-items: center;
+}
+nav > a{
+    color: #F5F5F5;
+    margin: 20px 5px;
+    text-decoration: none;
+}
+aside{
+    height: 81vh;
+    width: 16%;
+    float: left ;
+    background-color: #CEDEBD;
+}
+aside > a {
+    color: #435334;
+    display: block;
+    margin: 5px 20px;
+    text-decoration: none;
+}
+section{
+    height: 81vh;
+    background-image: url("https://uis.edu.co/wp-content/uploads/2022/04/FotoUIS.webp");
+    background-repeat: no-repeat;
+    background-size: 100vw 81vh;
+}
+footer{
+    background-color: #94A684;
+    text-align: center;
+    height: 6vh;
+}
