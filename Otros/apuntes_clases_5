@@ -1,0 +1,26 @@
+																	5/09/2023
+
+Que vimos en clase:
+
+- Posicionamiento de los elementos
+
+Normal
+Relativo: Con respecto a la posicion inicial del elemento -> los demás elementos permanecen igual 
+Absoluto: Con respecto a su contenedor (que este posicionado) si no con respecto al HTML -> los demás elementos pierden su posición
+Fijo: Con respecto al viewport 
+
+Para profundizar más: https://developer.mozilla.org/en-US/docs/Web/CSS/position
+
+
+- Diferencia entre el inline y el inline-block
+
+La diferencia entre `inline` y `inline-block` es que los elementos con `display: inline` se muestran en la misma línea (respetando el flujo) con
+otros elementos y no aceptan las propiedades `width`, `height` ni márgenes verticales². Por otro lado, los elementos con `display: inline-block`
+tienen un comportamiento que es una mezcla entre `inline` y `block`. Se muestran en la misma línea (respetando el flujo) con otros elementos y 
+además, aceptan las propiedades `width`, `height` y márgenes verticales.
+
+- Selectores
+
+Selector de descendencia directa en CSS. El símbolo > se utiliza para seleccionar elementos que son hijos directos de un elemento padre específico.
+
+Para revisar: Mobile Net
