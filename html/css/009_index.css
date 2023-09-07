@@ -21,9 +21,20 @@ nav > a {
 }
 iframe{
     height: 80vh;
+    width: 100vw;
 }
 footer{
     background-color: #675D50;
-    height: 6vh;
+    height: 6.3vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+}
+#logo-nav{
+    width: 45px;
+    height: 40px;
+    float: left;
+    margin-left: 10px;
 }
 
