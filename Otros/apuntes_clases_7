@@ -1,0 +1,33 @@
+																	12/09/2023
+
+Que vimos en clase:
+
+- Formularios
+- Valor default en el input
+- El atributo action nos permite agregar el script que se ejucuta en el servidor y es el que recibe los datos en el fomulario y los procesa en el 
+backend
+- method = "" : 
+	
+	"post" para enviar datos al servidor
+	"get" para recibir datos del servidor 
+
+Nota: para tener en cuenta en la fase uno el ojito en las password
+- Cuando se le da el atributo type con un valor submit se acciona lo que esta en el action del Form 
+- autofocus
+
+
+- @media screen and (max-width: 600px) {
+  }
+Se aplican los etilos que se encuntre dentro siempre que esto sea verdadero
+- placeholder 
+- Lo que va dentro del atributo name es el nombre que se le da a la variables es decir si tenemos name="nombre" vamos a tener una variable nombre
+- Tablas
+- Multimedia
+- Agregar videos de youtube
+
+Para revisar:
+- Tener en cuenta el @media 
+- Hacer formulario de practica
+- Convertir una tabla a diseño cuadricula
+- colspan y rowspan (se puede ver tambien con grid)
+- Mosaico de 4 videos
