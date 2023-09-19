@@ -1,0 +1,31 @@
+																	19/09/2023
+
+Que vimos en clase:
+- Empezamos a revisar Bootstrap
+- Se pueden bajar las librerias o colocar los enlaces de las librerias 
+- Popper para colocar menús desplegables
+- CDN: es una red de servidores vinculados entre sí cuyo objetivo es entregar contenido de la manera más rápida, económica, confiable y segura 
+  posible.
+- Otro framework equivalente a Bootstrap: Tailwind
+
+Tarea: 
+- Hacer pagina de la actividad 1 con Bootstrap 
+- Revisar: 
+	   Acordeon
+	   Carrusel
+	   Navbar
+	   Collapse
+	   Popovers
+	   Modal
+	   Alerts
+	   Tooltips
+	   Scrollspy
+	   Grid
+
+- Plantilla de login, bootstrap tiene el ojito para ver la contraseña despues de escribirla ?
+
+
+
+
+
+
