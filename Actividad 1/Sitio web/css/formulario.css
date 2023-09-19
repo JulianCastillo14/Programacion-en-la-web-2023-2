@@ -1,0 +1,58 @@
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+body{
+    background-color: #dde9d0;
+}
+
+legend{
+    font-family: cursive;
+    font-size: 20px;
+    text-align: left;
+}
+
+label{
+    margin-left: 3cm;
+}
+
+#nombre{
+    margin-left: 0cm;
+}
+
+.listas{
+    margin-left: 0cm;
+}
+.primeraCaja{
+    border-style: dotted;
+    border-color: black;
+}
+.segundaCaja{
+    border-style: dotted;
+    border-color: black;
+}
+.terceraCaja{
+    border-style: dotted;
+    border-color: black;
+}
+
+input[type=multilinea]{
+    width: 50%;
+    height: 250;
+    padding: 12px 20px;
+} 
+
+#opciones{
+    width: 200px;
+    height: 90px;
+    overflow: auto; 
+    border: 1px solid #ccc;
+    padding: 0px;
+    background-color: white;
+    width: 90px;
+}
+
+.opcion input[type="checkbox"] {
+    display: none;
+}

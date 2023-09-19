@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+    <link rel="stylesheet" href="css/formulario.css">
+
+</head>
+<body>
+    <h1>Formularios clasicos</h1>
+    <form name="formulario1" method="post" action="#">
+        <fieldset class="primeraCaja">
+            <legend>
+                Cajas de texto
+            </legend>
+
+            <label for="" id="nombre">Campo de texto: </label>
+            <input name="nombre" type="text" size="25" value="" placeholder="puedes colocar tu texto aqui"> <br>
+
+            <label for="">Area de texto:</label>
+            <input name="clave" type="multilinea"placeholder="puede colocar texto multilinea"> <br>
+
+            <label for="">contraseña: </label>
+            <input name="direccion" type="password" size="25" value="universidad">
+        </fieldset>
+
+        <br>
+
+        <fieldset class="segundaCaja">
+            <legend>
+                Cotroles de seleccion
+            </legend>
+            <br>
+            <br>
+            <br>
+                
+            <label for="" class="listas">Lista de seleccion multiple(tipo combo): </label>
+            <select id="animales" name="animales">
+                <option value="Gato">Gato</option>
+                <option value="Perro">Perro</option>
+                <option value="Leon">Leon</option>
+                <option value="Roedor">Roedor</option>
+                <option value="Lobo">Lobo</option>
+            </select> <br>
+
+            <label for="" class="listas">Lista de seleccion simple: </label>
+            <div id="opciones">
+                <div class="opcion"><input type="radio" name="animales" value="Gato"> Gato</div>
+                <div class="opcion"><input type="radio" name="animales" value="Perro"> Perro</div>
+                <div class="opcion"><input type="radio" name="animales" value="Leon"> Leon</div>
+                <div class="opcion"><input type="radio" name="animales" value="Roedor"> Roedor</div>
+                <div class="opcion"><input type="radio" name="animales" value="Lobo"> Lobo</div>
+            </div><br>
+
+            <br>
+
+            <label for="" class="listas">Lista de seleccion multiple, puede seleccionar varios: </label>
+            <div id="opciones">
+                <div class="opcion"><input type="checkbox" name="animales" value="Gato"> Gato</div>
+                <div class="opcion"><input type="checkbox" name="animales" value="Perro"> Perro</div>
+                <div class="opcion"><input type="checkbox" name="animales" value="Leon"> Leon</div>
+                <div class="opcion"><input type="checkbox" name="animales" value="Roedor"> Roedor</div>
+                <div class="opcion"><input type="checkbox" name="animales" value="Lobo"> Lobo</div>
+                <br>
+            
+            <label for="" class="listas">Lista de botones radio: </label>
+            <input name="universidad" type="text" size="45" value="Universidad Industrial de Santander"> <br>
+
+            <label for="" class="estudios">Primaria</label>
+            <input type="primaria" type="text" size="25">
+         </fieldset>
+         <br>
+         <fieldset class="terceraCaja">
+            <legend>
+                Botones
+            </legend>
+            <button type="button" onclick="alert('Hello world!')">Enviar informacion</button>
+            <button type="button" onclick="alert('Hello world!')">Borrar informacion</button>
+            <button type="button" onclick="alert('Hello world!')">Boton</button>
+
+         </fieldset>
+    </form>
+    
+</body>
+</html>

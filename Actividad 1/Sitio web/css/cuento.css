@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Crimson+Text&family=Inconsolata:wght@300&family=Montserrat:wght@100&display=swap');
+/* Estilos generales */
+.title {
+  color: #004225;
+  text-align: center;
+  font-size: 40px;
+}
+
+body {
+  background-color: #ffffff;
+  font-family: 'Amatic SC', cursive;
+}
+
+/* Estilos para el cuento */
+.story {
+  text-align: justify;
+  font-size: 25px;
+  line-height: 1.5;
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.first-letter {
+  font-size: 36px; /* Tamaño de la primera letra más grande */
+  color: #004225; /* Color de la primera letra */
+  font-weight: bold; /* Texto en negrita */
+
+  margin: 0 10px 0 0; /* Espacio a la derecha de la primera letra */
+}
+
+p:first-line {
+  color: #FF0000; /* Cambia esto al color que desees */
+}
+
