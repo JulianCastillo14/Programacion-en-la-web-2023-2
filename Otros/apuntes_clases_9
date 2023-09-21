@@ -1,0 +1,55 @@
+																	21/09/2023
+Que vimos en clase:
+
+Bootstrap:
+- Card
+- Popover 
+- Ventanas emergentes 
+- Modal 
+
+Empezamos con JS:
+
+- Una pagina web es un modelo de objetos - DOM
+- Con DOM podemos tener una Interfaz API para:
+	Manejar eventos
+	Crear elementos
+	Modificar elementos: Etiqueta y atributos
+- El interprete esta en el navegador 
+
+
+En el frontend, JavaScript juega un papel fundamental. Es el lenguaje de programación principal para interactuar con el usuario y manipular el
+contenido de una página web. Algunas de las partes más importantes de JavaScript en el frontend incluyen:
+
+Manipulación del DOM: JavaScript permite acceder y modificar los elementos de una página web a través del Document Object Model (DOM). Esto 
+significa que puedes cambiar el contenido, los estilos y el comportamiento de los elementos HTML utilizando JavaScript.
+
+Eventos: JavaScript también se utiliza para manejar eventos en el frontend. Puedes agregar interactividad a tu página web al responder a eventos
+como hacer clic en un botón, mover el mouse o enviar un formulario.
+
+Validación de formularios: JavaScript se utiliza comúnmente para validar los datos ingresados por los usuarios en formularios. Puedes verificar si
+los campos están completos, si los datos son válidos y mostrar mensajes de error en caso necesario.
+
+Animaciones y efectos visuales: JavaScript es ampliamente utilizado para crear animaciones y efectos visuales en el frontend. Puedes hacer que los
+elementos se muevan, cambien de tamaño, se desvanezcan y mucho más.
+
+
+- El innerHTML nos permite modificar cualquier etiqueta 
+
+Tarea
+- Hacer la pagina de la actividad 1 con bootstrap y incorporarle otra funcionalidad 
+- Instrucciones
+- Variables
+ let x = 20
+ const suma = { suma = suma + 1}
+- DOM 
+
+Proxima clase revisamos:
+- Objects
+- class
+- eventos
+- array: map y filter
+
+--?--
+
+- Diferencia entre el compilador y el interprete
+- Estilo overflow
