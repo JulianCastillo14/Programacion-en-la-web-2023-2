@@ -1,0 +1,23 @@
+																	26/09/2023
+Que vimos en clase:
+
+- Introduccion a javasript
+- Modelo DOM 
+- x = document.getElementById("01") la x se combierte en un apuntador al elemento con es id y x se convierte en un objecto 
+- x = document.getElementsByTagName("P")
+- inner se refiere a lo que estpa por dentro del elemento
+- const
+- let
+- var 
+- variable global y local 
+- a los objectos siempre le ponemos el const 
+- typescript strict mode
+- Arreglos
+- Copias de objectos y copias de array
+- Array iteration
+	map()
+- funcion flecha
+- como convertir una funcion normal en una funcion flecha
+
+
+Nota: necesario aprender javascript para que se facilite la parte de react y otros framework 
