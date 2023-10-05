@@ -1,0 +1,19 @@
+																	3/10/2023
+
+Que vimos en clase:
+
+React -> libreria de js
+
+- JSX Integración entre HTML y JS
+   <p className="nombre"></p>
+
+- Componentes
+- Marcado
+- Renderizar
+
+- Herramientas
+   node
+   npm
+   npx
+   
+A tener en cuenta: map() es un método incorporado en los arreglos, para iterar a través de los elementos dentro de una colección de arreglos en JavaScript.   
