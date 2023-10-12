@@ -1,0 +1,19 @@
+																	10/10/2023
+Que vimos en clase:
+
+Hooks
+-useState: renderiza al instante
+-useRef: valor persistentente
+-useEffect: tiene dos parametros -> primero:es una función, segundo: es un arreglo[]
+	- la funcion se ejecuta cuando se carga el componente 
+	- la funcion se ejecuta cada vez que cambia una de las variables del arreglo
+	- se ejecuta despues del renderizado
+
+cuando se carga el modulo y cuando se le cambia el valor a la variable
+
+Evento:
+	js: onblur
+	jsx: onBlur
+
+
+->router(ruteo)
