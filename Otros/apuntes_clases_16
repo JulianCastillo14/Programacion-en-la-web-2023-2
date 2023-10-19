@@ -1,0 +1,26 @@
+																	19/10/2023
+Qué vimos en clase:
+         _
+- Rutas | publicas 
+        |_privadas
+       
+Metodología
+
+1) Elaboramos dos enrutadores
+	  _
+contiene | Rutas publicas  
+     	 |_Rutas privadas 
+     	 
+2) Envolver los componentes publicos en el componente de rutas publicas y y los privados en el componente de rutas privadas.
+3) Se controla lo publico y lo privado mediante una variable de "estado" que puede ser accedida por todos.
+
+El estado es una variable simple por ejemplo de tipo booleano     	 
+
+Componentes a tener en cuenta:
+
+- useContext 
+	 Provider define que es lo que suministra el contexto
+- useReducer 
+	Se define el comportamientoo o la logica para manejar la variable estado
+     	 
+- Operador condicional (ternario)

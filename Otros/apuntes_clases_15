@@ -1,0 +1,8 @@
+																	17/10/2023
+Que vimos en clase:
+
+- Routing
+    import { BrowserRouter, Route, Routes } from 'react-router-dom'
+    
+
+																		
