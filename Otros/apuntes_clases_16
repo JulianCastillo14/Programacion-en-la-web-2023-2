@@ -22,5 +22,9 @@ Componentes a tener en cuenta:
 	 Provider define que es lo que suministra el contexto
 - useReducer 
 	Se define el comportamientoo o la logica para manejar la variable estado
-     	 
+  
+Revisar
+   	 
 - Operador condicional (ternario)
+- Sintaxis Spread
+

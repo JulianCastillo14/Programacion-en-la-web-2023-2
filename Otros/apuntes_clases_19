@@ -1,0 +1,18 @@
+
+Que vimos en clase? 
+
+Express
+ - bajar y subir archivos al servidor
+ - Comunicación cliente/server
+ - A traves del protocolo http 
+		 	GET
+		 	POST
+	Restful	 	PUT
+		 	DELETE
+		 	PATH
+	CRUD		 	
+		 	
+ - Definir rutas hacia el servidor 
+ - Middleware 
+ - Conexión con la BD
+ - PLantillas

@@ -1,0 +1,9 @@
+																	24/10/2023
+Que vimos en clase:
+
+- Servidores web:
+	Apache
+	nginx
+- Node.js, intrepreta la pagina 
+- El puerto no solamente es una aplicación, también puede ser una maquina virtual, un contenedor 
+- El middleware es un software con el que las diferentes aplicaciones se comunican entre sí. Brinda funcionalidad para conectar las aplicaciones de manera inteligente y eficiente, de forma que se pueda innovar más rápido.																	
